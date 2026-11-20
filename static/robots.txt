@@ -1,0 +1,3 @@
+# Private organizer tool: keep out of search engines
+User-agent: *
+Disallow: /
